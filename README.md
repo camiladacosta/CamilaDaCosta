@@ -1,8 +1,4 @@
 ### Hi there 👋
-
-- 🌱 I’m currently learning Angular
-- 😄 Pronouns: she/her
-
 <!--
 **CamilaDaCosta/CamilaDaCosta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -20,7 +16,7 @@ Here are some ideas to get you started:
 <div align="center">
   <a href="https://github.com/camiladacosta">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=camiladacosta&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <!--img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=camiladacosta&layout=compact&langs_count=7&theme=radical"/-->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=camiladacosta&layout=compact&langs_count=7&theme=dark"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="icon-js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
