@@ -18,6 +18,7 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning JavaScript and Angular
 - 👯 I’m looking to collaborate on FrontEnd Projects
+- 😄 Pronouns: She/Her
 <div align="center">
   <a href="https://github.com/camiladacosta">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=camiladacosta&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
@@ -37,7 +38,7 @@ Here are some ideas to get you started:
   
   ##
   
-  ### Contact Me
+  ### 📫 How to reach me:
   
 <div> 
   <a href = "mailto:camila.coosta99@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a>
