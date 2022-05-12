@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning JavaScript/TypeScript and Angular
 - 👯 I’m looking to collaborate on FrontEnd Projects but I can help you on any others
 - 😄 Pronouns: She/Her
-- Contributing with <a href="https://github.com/rauljose32/rauljose32-CRUD-FrontEndApi"><i>This FrontEnd Project</i></a>
+- Contributing with <a href="https://github.com/rauljose32/rauljose32-CRUD-FrontEndApi" target="_black"><i>This FrontEnd Project</i></a>
 <div align="center">
   <a href="https://github.com/camiladacosta">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=camiladacosta&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
