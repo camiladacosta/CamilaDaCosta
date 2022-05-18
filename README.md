@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 - Contributing with <a href="https://github.com/rauljose32/rauljose32-CRUD-FrontEndApi" target="_blank"><i>This FrontEnd Project</i></a>
 <div align="center">
   <a href="https://github.com/camiladacosta">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/pin/?username=camiladacosta&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/?username=camiladacosta&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=camiladacosta&layout=compact&langs_count=7&theme=dark"/>
 </div>
 <div style="display: inline_block"><br> 
