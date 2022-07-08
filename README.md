@@ -14,9 +14,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="https://badges.pufler.dev/visits/camiladacosta/camiladacosta" alt="visitantes"/>
+<!--img src="https://badges.pufler.dev/visits/camiladacosta/camiladacosta" alt="visitantes"/-->
 
-- 🌱 I’m currently learning JavaScript/TypeScript and Angular
+- 🌱 I’m currently learning PHP
 - 👯 I’m looking to collaborate on FrontEnd Projects but I can help you on any others
 - 😄 Pronouns: She/Her
 - Contributing with <a href="https://github.com/rauljose32/rauljose32-CRUD-FrontEndApi" target="_blank"><i>This FrontEnd Project</i></a>
