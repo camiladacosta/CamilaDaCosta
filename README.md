@@ -16,10 +16,10 @@ Here are some ideas to get you started:
 
 <!--img src="https://badges.pufler.dev/visits/camiladacosta/camiladacosta" alt="visitantes"/-->
 
-- 🌱 I’m currently learning PHP
+- 🌱 I’m currently learning PHP and Laravel
 - 👯 I’m looking to collaborate on FrontEnd Projects but I can help you on any others
 - 😄 Pronouns: She/Her
-- Contributing with <a href="https://github.com/rauljose32/rauljose32-CRUD-FrontEndApi" target="_blank"><i>This FrontEnd Project</i></a>
+- I contributed to <a href="https://github.com/rauljose32/rauljose32-CRUD-FrontEndApi" target="_blank"><i>This FrontEnd Project</i></a>
 <div align="center">
   <a href="https://github.com/camiladacosta">
   <img height="160em" src="https://github-readme-stats.vercel.app/api/?username=camiladacosta&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
@@ -41,15 +41,15 @@ Here are some ideas to get you started:
 </div>
   
   ##
-  
+<!--  
   ### 📫 How to reach me:
   
 <div> 
   <a href = "mailto:camila.coosta99@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/camila-coosta99" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/camila-coosta99" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> -->
   <!--a href="Camila da Costa#3861"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a-->
  
-  ![Snake animation](https://github.com/camiladacosta/camiladacosta/blob/output/github-contribution-grid-snake.svg)
+ ![Snake animation](https://github.com/camiladacosta/camiladacosta/blob/output/github-contribution-grid-snake.svg) 
  
 </div>
   
