@@ -16,8 +16,7 @@ Here are some ideas to get you started:
 
 <!--img src="https://badges.pufler.dev/visits/camiladacosta/camiladacosta" alt="visitantes"/-->
 
-- 🌱 I’m currently learning PHP and Laravel
-- 👯 I’m looking to collaborate on FrontEnd Projects but I can help you on any others
+- 🌱 I’m currently working with PHP and Laravel
 - 😄 Pronouns: She/Her
 - I contributed to <a href="https://github.com/rauljose32/rauljose32-CRUD-FrontEndApi" target="_blank"><i>This FrontEnd Project</i></a>
 <div align="center">
