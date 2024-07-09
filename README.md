@@ -17,8 +17,7 @@ Here are some ideas to get you started:
 <!--img src="https://badges.pufler.dev/visits/camiladacosta/camiladacosta" alt="visitantes"/-->
 
 - 🌱 I’m currently working with PHP and Laravel
-- 😄 Pronouns: She/Her
-- I contributed to <a href="https://github.com/rauljose32/rauljose32-CRUD-FrontEndApi" target="_blank"><i>This FrontEnd Project</i></a>
+- I contributed to <a href="https://github.com/rauljose32/rauljose32-CRUD-FrontEndApi" target="_blank"><i>This Project</i></a>
 <div align="center">
   <a href="https://github.com/camiladacosta">
   <img height="160em" src="https://github-readme-stats.vercel.app/api/?username=camiladacosta&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
