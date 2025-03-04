@@ -1,54 +1,51 @@
-### Hello World 👋
-<!--
-**CamilaDaCosta/CamilaDaCosta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!--FROM https://github.com/salesp07/salesp07 -->
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=camiladacosta.visitor-badge" />
 
-Here are some ideas to get you started:
+<h1 align="center">    
+    <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&duration=3000&pause=1000&color=7B9EF7&background=64FF5D00&center=true&vCenter=true&random=true&width=500&height=70&lines=Ol%C3%A1!+%F0%9F%91%8B;Hello!+%F0%9F%91%8B;Hola!+%F0%9F%91%8B;Bonjour!+%F0%9F%91%8B;nuqneH!+%F0%9F%91%8B" alt="Typing SVG" />
+</h1>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br/>
+ 
+<div align="center"> 
+  <a href="mailto:camila.coosta99@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  <a href="https://linkedin.com/in/camila-coosta99/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>  
+</div>
 
-<!--img src="https://badges.pufler.dev/visits/camiladacosta/camiladacosta" alt="visitantes"/-->
-
-- 🌱 I’m currently working with PHP and Laravel
-- I contributed to <a href="https://github.com/rauljose32/rauljose32-CRUD-FrontEndApi" target="_blank"><i>This Project</i></a>
+ <hr/>
+ 
+<h2 align="center">⚒️ Languages - Frameworks - Tools ⚒️</h2>
+<br/>
 <div align="center">
-  <a href="https://github.com/camiladacosta">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/?username=camiladacosta&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=camiladacosta&layout=compact&langs_count=7&theme=dark"/>
+    <img src="https://skillicons.dev/icons?i=php,laravel,java,spring,javascript,html,css,bootstrap,vscode,github,git" /><br>
+    <img src="https://skillicons.dev/icons?i=docker,mysql,postgresql,postman,jquery,vuejs,linux" /><br>
 </div>
-<div style="display: inline_block"><br> 
-  <img align="center" alt="icon-java" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain-wordmark.svg">
-  <img align="center" alt="icon-spring" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
-  <img align="center" alt="icon-php" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
-  <img align="center" alt="icon-laravel" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg" />
-  <img align="center" alt="icon-mysql" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
-  <img align="center" alt="icon-postgresql" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-plain.svg">
-  <!--img align="center" alt="icon-js" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="icon-nodejs" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain-wordmark.svg"-->
-  <img align="center" alt="icon-angularjs" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
-  <img align="center" alt="icon-HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="icon-CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <!--img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/639956127056134178/890373478988013628/Publicacoes_Instagram_1_1.png?width=676&height=676"-->
+
+<br/>
+<hr/>
+
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/camiladacosta/camiladacosta/output/github-contribution-grid-snake.svg" />   
+  <br/><br/><br/>
 </div>
-  
-  ##
-<!--  
-  ### 📫 How to reach me:
-  
-<div> 
-  <a href = "mailto:camila.coosta99@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/camila-coosta99" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> -->
-  <!--a href="Camila da Costa#3861"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a-->
- 
- ![Snake animation](https://github.com/camiladacosta/camiladacosta/blob/output/github-contribution-grid-snake.svg) 
- 
+
+<hr/>
+
+<h2 align="center">⚡ Stats ⚡</h2>
+<br>
+<div align=center>
+  <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=camiladacosta&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=camiladacosta&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <br/>
+  <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=salesp07&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
-  
-  ![visitantes](https://visitor-badge.laobi.icu/badge?page_id=camiladacosta.visitor-badge)
+
+<br/><br/>
+
+<hr/>
