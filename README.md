@@ -53,3 +53,8 @@
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/camiladacosta/camiladacosta/output/github-contribution-grid-snake.svg" />   
   <br/><br/><br/>
 </div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/weverkley/camiladacosta/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/weverkley/camiladacosta/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/camiladacosta/camiladacosta/output/pacman-contribution-graph.svg">
+</picture>
